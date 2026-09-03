@@ -67,8 +67,8 @@ For the main analysis, anemia was classified as:
 Among children with available anemia measurements, observed anemia prevalence ranged from **41.1% in the richest group to 50.9% in the poorer group**.
 
 The association between wealth group and anemia status was statistically significant (**p < 0.001**).
-
 ![Anemia prevalence by wealth](reports/figures/anemia_by_wealth.png)
+
 
 ---
 
